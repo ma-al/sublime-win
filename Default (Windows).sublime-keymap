@@ -17,6 +17,4 @@
     { "keys": ["shift+delete"], "command": "right_delete" },
     { "keys": ["ctrl+insert"], "command": "noop" },
     { "keys": ["shift+insert"], "command": "noop" },
-
-    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
